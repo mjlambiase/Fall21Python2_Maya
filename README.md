@@ -3,6 +3,11 @@ Python 2 class material for CCAC
 
 # Description of Folders
 
-## JSON Project
+## EMS_Project
+- Output a dictionary of counts of redactions by year
+- Extract record ID and write to file log each redacted record
 
-Program that takes in a csv file and a json search criteria file. Output json file with containing the records matched by the search criteria.
+## JSON_Project
+
+- Program that takes in a csv file and a json search criteria file 
+- Output json file with containing the records matched by the search criteria.
