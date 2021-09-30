@@ -1,7 +1,8 @@
 # Fall21Python2_Maya
 Python 2 class material for CCAC
 
-# JSON Project
+# Description of Folders
 
-Take csv file and convert to JSON
-Write Python code to search for items in JSON
+## JSON Project
+
+Program that takes in a csv file and a json search criteria file. Output json file with containing the records matched by the search criteria.
