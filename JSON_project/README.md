@@ -4,6 +4,6 @@
 
 ### json_search_criteria.json is the json search criteria file
 
-### json_diagrm.png is diagram of project (see below)
+### json_diagram.png is diagram of project (see below)
 
 ![diagram](json_diagram.png)
