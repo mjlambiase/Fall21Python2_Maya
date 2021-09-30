@@ -4,8 +4,8 @@
 - Determine the rate of redacted call descriptions for EMS data set
 - Output a dictionary of counts of redactions by year
 - Extract record ID and write to file log each redacted record
-- Data Source: WPRDC Data set on EMS/Fire dispatch via 
-> data.wprdc.org/dataset/allegheny-county-911-dispatches-ems-and-fire
+- Data Source: WPRDC Data set on EMS/Fire dispatch 
+      data.wprdc.org/dataset/allegheny-county-911-dispatches-ems-and-fire
 
 ## JSON_Project
 
