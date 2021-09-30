@@ -1,2 +1,2 @@
 
-![diagram](json_diagram.PNG)
+![diagram](json_diagram.png)
