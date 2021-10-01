@@ -1,6 +1,6 @@
 # JSON Search Criterial Project
 
-## Write Python program that takes in a csv file and a json search criteria file and output a json file with containing the records matched by the search criteria.
+## Python program that takes in a csv file and a json search criteria file and outputs a json file containing the records that match the search criteria.
 
 ### Files in folder
 
