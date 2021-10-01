@@ -2,7 +2,7 @@
 
 ## Python program that takes in a csv file and a json search criteria file and outputs a json file containing the records that match the search criteria.
 
-### Files in folder
+### Files in folder:
 
 - capital_projects.csv is the csv data set
 - json_search_criteria.json is the json search criteria file
