@@ -6,4 +6,4 @@
 
 ### json_diagram.png is diagram of project (see below)
 
-![diagram](JSON diagram.drawio.png)
+![diagram](JSON_diagram.png)
