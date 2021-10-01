@@ -9,5 +9,5 @@
 
 ## JSON_project
 
-- Program that takes in a csv file and a json search criteria file 
+- Python program that takes in a csv file and a json search criteria file 
 - Output json file containing the records matched by the search criteria.
