@@ -13,3 +13,4 @@
 - Output json file containing the records matched by the search criteria.
 
 ## ICON_project
+- Python program that uses looping and basic data structures to display customized 10x10 icons in various scales and orientations
