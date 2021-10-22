@@ -1,5 +1,5 @@
 
-# Peer Teaching on Exceptions
+# Peer Teaching on Exceptions in Python
 
 ## Files
 Exceptions.ipynb jupyter notebook
