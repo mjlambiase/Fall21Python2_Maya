@@ -1,7 +1,7 @@
 
 # Peer Teaching on Exceptions in Python
 
-## Files
+## Files in Folder
 Exceptions.ipynb jupyter notebook
 - info on exceptions
 - references
