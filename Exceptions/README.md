@@ -2,7 +2,7 @@
 # Peer Teaching on Exceptions
 
 ## Files
-Exceptions.ipynb jupyiter notebook
+Exceptions.ipynb jupyter notebook
 - info on exceptions
 - references
 - examples
