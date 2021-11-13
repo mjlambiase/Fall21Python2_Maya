@@ -1,5 +1,9 @@
 # Description of Folders
 
+## API_project
+- Get data using CDC api
+- Graph covid deaths by week (2020-2021) for a specified state
+
 ## EMS_project
 - Determine the rate of redacted call descriptions for EMS data set
 - Output a dictionary of counts of redactions by year
