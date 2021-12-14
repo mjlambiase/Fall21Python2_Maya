@@ -29,3 +29,7 @@ Per capita Covid deaths by state
 ## Percent Covid Death
 
 In the United States, 12% of deaths were attributed to Covid (2020-2021)
+    
+## Unemployment
+    
+## Cost of Living
