@@ -12,7 +12,7 @@
 
 ## Covid Deaths
 
-    Total number of Covid deaths by state
+Total number of Covid deaths by state
     California:  78,297
     Texas:  78,986
     Florida:  59,441
