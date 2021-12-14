@@ -9,9 +9,11 @@
     New York: 20,201,249
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
 ## Covid Deaths
-Total number of Covid deaths by state
-     California:  78,297
-     Texas:  78,986
-     Florida:  59,441
-     New York:  59,692
+
+    Total number of Covid deaths by state
+    California:  78,297
+    Texas:  78,986
+    Florida:  59,441
+    New York:  59,692
