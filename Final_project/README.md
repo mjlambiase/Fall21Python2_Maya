@@ -21,4 +21,4 @@ Total number of Covid deaths by state
 
 Per capita Covid deaths by state
     
-    ![diagram](/images/per_capita_covid_deaths.png)
+    ![diagram](/images/per_capita_covid_deaths.PNG)
