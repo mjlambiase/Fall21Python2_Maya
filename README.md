@@ -21,3 +21,7 @@
 - Python program that takes in a csv file and a json search criteria file 
 - Output json file containing the records matched by the search criteria.
 
+## Final_project
+- Compare the 4 largest states across the pandemic (California, Texas, Florida, New York)
+
+
