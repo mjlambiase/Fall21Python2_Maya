@@ -14,10 +14,10 @@
 
 Total number of Covid deaths by state
     
-    California:  78,297
-    Texas:  78,986
-    Florida:  59,441
-    New York:  59,692
+    California: 78,297
+    Texas: 78,986
+    Florida: 59,441
+    New York: 59,692
 
 Per capita Covid deaths by state
     
@@ -40,9 +40,9 @@ In the United States, 12% of deaths were attributed to Covid (2020-2021)
     
 ## Other consiserations
     
-    - mental health
-    - drug crisis
-    - learning loss in children
-    - missed vaccinations in children
-    - screening and treatment of other diseases
-    - weakened immune systems
+    - Mental health
+    - Drug crisis
+    - Learning loss in children
+    - Missed vaccinations in children
+    - Screening and treatment of other diseases
+    - Weakened immune systems
