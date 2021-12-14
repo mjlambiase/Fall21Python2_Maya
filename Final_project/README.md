@@ -26,3 +26,6 @@ Per capita Covid deaths by state
 ![Figure]( https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_cpital_deaths_per_month.png)
     
    
+## Percent Covid Death
+
+In the United States, 12% of deaths were attributed to Covid (2020-2021)
