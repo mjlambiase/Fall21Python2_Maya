@@ -42,6 +42,7 @@ In the United States, 12% of deaths were attributed to Covid (2020-2021)
     
     - Mental health
     - Drug crisis
+    - Crime
     - Learning loss in children
     - Missed vaccinations in children
     - Screening and treatment of other diseases
