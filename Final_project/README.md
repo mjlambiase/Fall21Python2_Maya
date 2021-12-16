@@ -40,13 +40,18 @@ Per capita Covid deaths by state
 ## Percent Covid Death
 12% of all deaths were attributed to Covid in the United States (2020-2021)
 
+    New York: 16.4 %
+    Texas: 15.9 %
+    California: 12.7 %
+    Florida: 12.2 %
+    
+    
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Percent_covid_death_month.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
     
 ## Unemployment
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
-    
 -------------------------------------------------------------------------------------------------------------------------------------
     
 ## Other consiserations
