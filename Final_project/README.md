@@ -28,8 +28,8 @@ Per capita Covid deaths by state
 ## Accounting for Age
     
 ## Percent Covid Death
+![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Map_percent_covid_USA.png)
 
-In the United States, 12% of deaths were attributed to Covid (2020-2021)
     
 ## Unemployment
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
