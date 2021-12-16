@@ -2,6 +2,8 @@
 # <b>Should States Continue with Lockdowns and Other Covid Restrictions?
 ## <b>What we have learned from the 4 largest states over the Pandemic (2020-2021)
 
+-------------------------------------------------------------------------------------------------------------------------------------    
+    
 ### <b>Population from 2020 Census
     California: 39,538,223
     Texas: 29,145,505
@@ -30,10 +32,12 @@ Per capita Covid deaths by state
 
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Percent_covid_death_month.png)
 
-   
+-------------------------------------------------------------------------------------------------------------------------------------
+    
 ## Unemployment
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
     
+-------------------------------------------------------------------------------------------------------------------------------------
     
 ## Conclusion
 
