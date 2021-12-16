@@ -39,10 +39,6 @@ Per capita Covid deaths by state
     
 -------------------------------------------------------------------------------------------------------------------------------------
     
-## Conclusion
-
-    Differences in Covid deaths between the 4 largest states did not show distinguishable differences in Covid deaths between states that have more strict Covid lockdowns and restrictions and the ones that did not. Conversely, states with more strict Covid restrictions are doing worse economically. 
-    
 ## Other consiserations
     
     - Cost of living
@@ -53,3 +49,8 @@ Per capita Covid deaths by state
     - Missed vaccinations in children
     - Screening and treatment of other diseases
     - Weakened immune systems
+
+      
+## Conclusion
+
+Differences in Covid deaths between the 4 largest states did not show distinguishable differences in Covid deaths between states that have more strict Covid lockdowns and restrictions and the ones that did not. Conversely, states with more strict Covid restrictions are doing worse economically. 
