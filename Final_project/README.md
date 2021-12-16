@@ -25,7 +25,8 @@ Per capita Covid deaths by state
     
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_total.png)
     
-## Accounting for Age
+## Covid Deaths Over Age 65
+75% of all Covid deaths occurred in individuals over 65 years
     
     Median Age                       Percent Over 65 Years   
         Florida: 42.4 y                 20.9 %
