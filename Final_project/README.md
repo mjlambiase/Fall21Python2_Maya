@@ -34,14 +34,13 @@ In the United States, 12% of deaths were attributed to Covid (2020-2021)
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
     
     
-## Cost of Living
-    
 ## Conclusion
 
     Differences in Covid deaths between the 4 largest states did not show distinguishable differences in Covid deaths between states that have more strict Covid lockdowns and restrictions and the ones that did not. Conversely, states with more strict Covid restrictions are doing worse economically. 
     
 ## Other consiserations
     
+    - Cost of living
     - Mental health
     - Drug crisis
     - Crime
