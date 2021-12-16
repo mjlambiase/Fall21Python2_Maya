@@ -58,7 +58,7 @@ Per capita Covid deaths by state
 -------------------------------------------------------------------------------------------------------------------------------------  
 # Gas Prices    
 -------------------------------------------------------------------------------------------------------------------------------------     
-# Other consiserations that are unfavorably associated with Covid lockdowns and restrictions
+# Other consiserations that are unfavorably associated with Covid lockdowns/restrictions
     - Mental health
     - Drug crisis
     - Crime
