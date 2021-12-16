@@ -28,10 +28,10 @@ Per capita Covid deaths by state
 ## Accounting for Age
     
     Median Age                       Percent Over 65 Years   
-        Florida: 42.4 y                         20.9 %
-        New York: 39.2 y                        16.9 %
-        California: 37.0 y                      14.8 %
-        Texas: 35.1 y                           12.9 %
+        Florida: 42.4 y                 20.9 %
+        New York: 39.2 y                16.9 %
+        California: 37.0 y              14.8 %
+        Texas: 35.1 y                   12.9 %
    
     
 ## Percent Covid Death
