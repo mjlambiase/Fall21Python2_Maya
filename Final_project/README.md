@@ -27,7 +27,8 @@ Per capita Covid deaths by state
     
 ## Percent Covid Death
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Map_percent_covid_USA.png)
-    
+
+![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Percent_covid_death_month.png)
 
    
 ## Unemployment
