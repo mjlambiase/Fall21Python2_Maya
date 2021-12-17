@@ -56,7 +56,8 @@ Per capita Covid deaths by state
 # Cost of Living
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Cost_of_Living.png) 
 -------------------------------------------------------------------------------------------------------------------------------------  
-# Gas Prices    
+# Gas Prices  
+![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Gas_prices.png)     
 -------------------------------------------------------------------------------------------------------------------------------------     
 # Other consiserations (Note: these all track unfavorably with more Covid lockdowns/restrictions) 
     - Mental health
