@@ -74,4 +74,4 @@ Record high unemployment due to Covid lockdowns
 -------------------------------------------------------------------------------------------------------------------------------------       
 # Conclusion
 
-Differences in Covid deaths between the 4 largest states did not show distinguishable differences in Covid deaths between states that have more strict Covid lockdowns and restrictions and the ones that did not. Conversely, states with more strict Covid restrictions are doing worse economically. 
+Differences in Covid deaths between states did not show distinguishable differences between states that had more strict Covid lockdowns/restrictions and the ones that did not. Conversely, states with more strict Covid restrictions are doing worse economically. 
