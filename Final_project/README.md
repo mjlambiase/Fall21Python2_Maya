@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-# Covid Deaths
+# ~ Covid Deaths ~
 
 ## Total number of Covid deaths 
     
@@ -48,7 +48,7 @@ Covid deaths per 100,000 people
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Percent_covid_death_month.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
-# Economic Impact
+# ~ Economic Impact ~
    
 ## Unemployment
 Record high unemployment due to Covid lockdowns    
@@ -64,13 +64,15 @@ Record high unemployment due to Covid lockdowns
     
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Gas_prices.png)     
 -------------------------------------------------------------------------------------------------------------------------------------     
-# Other Considerations (Note: these all track unfavorably with more Covid lockdowns/restrictions) 
+# ~ Other Considerations ~ 
     - Mental health
     - Drug crisis
     - Crime
     - Learning loss in children
     - Missed vaccinations in children
     - Screening and treatment of other diseases
+    
+    (Note: these all track unfavorably with more Covid lockdowns/restrictions)
 -------------------------------------------------------------------------------------------------------------------------------------       
 # Conclusion
 
