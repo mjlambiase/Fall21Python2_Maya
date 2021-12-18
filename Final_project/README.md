@@ -51,6 +51,7 @@ Covid deaths per 100,000 people
    
 ## Unemployment
 Record high unemployment due to Covid lockdowns
+<br>
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Cost of living    
