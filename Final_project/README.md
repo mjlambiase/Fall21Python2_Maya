@@ -23,6 +23,7 @@
 
 ## Per capita Covid deaths 
 Covid deaths per 100,000 people    
+    
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_total.png)
     
 ## Covid deaths over age 65
@@ -50,14 +51,17 @@ Covid deaths per 100,000 people
 # Economic Impact
    
 ## Unemployment
-Record high unemployment due to Covid lockdowns
-<br />
+Record high unemployment due to Covid lockdowns    
+    
+
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Cost of living    
+    
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Cost_of_Living.png) 
 -------------------------------------------------------------------------------------------------------------------------------------  
 ## Gas prices  
+    
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Gas_prices.png)     
 -------------------------------------------------------------------------------------------------------------------------------------     
 # Other Considerations (Note: these all track unfavorably with more Covid lockdowns/restrictions) 
