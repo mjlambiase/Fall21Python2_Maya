@@ -29,11 +29,11 @@ Covid deaths per 100,000 people
 ## Covid deaths over age 65
 75% of all Covid deaths occurred in individuals over 65 years
     
-                            Median Age (y)         Percent Over 65 Years (%)  
-       Florida                 42.4                          20.9
-       New York                39.2                          16.9
-       California              37.0                          14.8
-       Texas                   35.1                          12.9 
+                            Median Age (y)          Percent Over 65 Years (%)  
+       Florida                  42.4                          20.9
+       New York                 39.2                          16.9
+       California               37.0                          14.8
+       Texas                    35.1                          12.9 
     
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_over65.png)
  
