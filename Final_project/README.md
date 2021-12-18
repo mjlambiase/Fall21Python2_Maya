@@ -25,7 +25,7 @@ Per capita Covid deaths by state
     
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_total.png)
     
-# Covid Deaths Over Age 65
+## Covid Deaths Over Age 65
 75% of all Covid deaths occurred in individuals over 65 years
     
                             Median Age              % Over 65 Years   
@@ -37,7 +37,7 @@ Per capita Covid deaths by state
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_over65.png)
  
     
-# Percent Covid Death
+## Percent Covid Death
 12% of all deaths were attributed to Covid in the United States (2020-2021)
 
     New York: 16.4 %
@@ -51,13 +51,13 @@ Per capita Covid deaths by state
 -------------------------------------------------------------------------------------------------------------------------------------
 # Economic Impact
 -------------------------------------------------------------------------------------------------------------------------------------    
-# Unemployment
+## Unemployment
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
 -------------------------------------------------------------------------------------------------------------------------------------
-# Cost of Living
+## Cost of Living
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Cost_of_Living.png) 
 -------------------------------------------------------------------------------------------------------------------------------------  
-# Gas Prices  
+## Gas Prices  
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Gas_prices.png)     
 -------------------------------------------------------------------------------------------------------------------------------------     
 # Other consiserations (Note: these all track unfavorably with more Covid lockdowns/restrictions) 
