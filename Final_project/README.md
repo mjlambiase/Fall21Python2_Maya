@@ -1,6 +1,6 @@
 
 # <b>Should States Continue with Lockdowns and Other Covid Restrictions?
-## <b>What we have learned from the 4 largest states over the Pandemic (2020-2021)
+# <b>What we have learned from the 4 largest states over the Pandemic (2020-2021)
 
 -------------------------------------------------------------------------------------------------------------------------------------    
     
