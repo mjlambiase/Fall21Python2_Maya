@@ -49,6 +49,7 @@ Per capita Covid deaths by state
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Percent_covid_death_month.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
+# Economic Impact
 -------------------------------------------------------------------------------------------------------------------------------------    
 # Unemployment
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
