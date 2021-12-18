@@ -14,14 +14,14 @@
 
 # Covid Deaths
 
-Total number of Covid deaths by state
+## Total number of Covid deaths 
     
     California: 78,297
     Texas: 78,986
     Florida: 59,441
     New York: 59,692
 
-Per capita Covid deaths by state
+## Per capita Covid deaths 
     
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_total.png)
     
