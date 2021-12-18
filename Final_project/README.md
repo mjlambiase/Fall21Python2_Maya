@@ -22,39 +22,38 @@
     New York: 59,692
 
 ## Per capita Covid deaths 
-    
+Covid deaths per 100,000 people    
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_total.png)
     
 ## Covid deaths over age 65
 75% of all Covid deaths occurred in individuals over 65 years
     
-                            Median Age              % Over 65 Years   
-       Florida              42.4 y                  20.9 %
-       New York             39.2 y                  16.9 %
-       California           37.0 y                  14.8 %
-       Texas                35.1 y                  12.9 %
+                            Median Age (y)         Percent Over 65 Years (%)  
+       Florida                 42.4                          20.9
+       New York                39.2                          16.9
+       California              37.0                          14.8
+       Texas                   35.1                          12.9 
     
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_over65.png)
  
-    
 ## Percent Covid death
 12% of all deaths were attributed to Covid in the United States (2020-2021)
 
-    New York: 16.4 %
-    Texas: 15.9 %
-    California: 12.7 %
-    Florida: 12.2 %
-    
-    
+    New York: 16.4%
+    Texas: 15.9%
+    California: 12.7%
+    Florida: 12.2%
+        
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Percent_covid_death_month.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # Economic Impact
    
 ## Unemployment
+Record high unemployment due to Covid lockdowns
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Unemployment_by_month.png)    
 -------------------------------------------------------------------------------------------------------------------------------------
-## Cost of living
+## Cost of living    
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Cost_of_Living.png) 
 -------------------------------------------------------------------------------------------------------------------------------------  
 ## Gas prices  
