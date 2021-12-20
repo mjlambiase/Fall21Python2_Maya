@@ -78,4 +78,4 @@ Record high unemployment due to Covid lockdowns
 
 States with stricter Covid lockdowns/restrictions did not show noticeable or consistent differences with regards to Covid deaths compared to states with less restrictions. Conversely, states with stricter Covid lockdowns/restrictions are consistently doing worse across economic measures. 
     
-After collecting data for almost 2 years, Covid lockdowns/restrictions do not appear effective in stopping the spread of the virus or preventing Covid death. However, these restrictions are highly correlated more financial burdens and a host of other negative health and societal outcomes (i.e. mental health, crime, etc).
+After collecting data for almost 2 years, Covid lockdowns/restrictions do not appear effective in stopping the spread of the virus or preventing Covid death. However, these restrictions are highly correlated with more financial burdens and a host of other negative health and societal outcomes (i.e. mental health, crime, etc).
