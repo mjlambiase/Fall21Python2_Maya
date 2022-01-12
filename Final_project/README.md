@@ -38,7 +38,7 @@ Covid deaths per 100,000 people
 ![Figure](https://github.com/mjlambiase/Fall21Python2_Maya/blob/main/Final_project/images/Per_capita_covid_deaths_over65.png)
  
 ## Percent Covid death
-12% of all deaths were attributed to Covid in the United States (2020-2021)
+13% of all deaths were attributed to Covid in the United States (2020-2021)
 
     New York: 16.4%
     Texas: 15.9%
